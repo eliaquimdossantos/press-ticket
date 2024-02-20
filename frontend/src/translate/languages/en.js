@@ -405,7 +405,7 @@ const messages = {
         appBar: {
           message: {
             hi: "Hello",
-            text: "welcome to the System"
+            text: "welcome to "
           },
           user: {
             profile: "Profile",
